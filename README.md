@@ -104,13 +104,5 @@ examples/z0_Inf_cifar_demo.ipynb
 
 ```
 
-## Citation
-@article{kokhlikyan2025z0infzerothorderapproximation,
-         title={Z0-Inf: Zeroth Order Approximation for Data Influence},
-         author={Narine Kokhlikyan and Kamalika Chaudhuri and Saeed Mahloujifar},
-         url={https://arxiv.org/abs/2510.11832},
-         year={2025}
-}
-
 ## License
 Z0Inf is licensed under the CC-BY-NC 4.0 license.
